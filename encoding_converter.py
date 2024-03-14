@@ -23,7 +23,7 @@ def scan_and_convert(directory):
                 original = detect_encoding(filepath)
                 if original != 'utf-8-sig':
                     convert_encoding_to_utf8_sig(filepath, original)
-                    report.append(f"[{file}] [{original}]->[utf-8-sig]")
+                    report.append(f"[{file}] [{original}]->[UTF-8-SIG]")
     return report
 
 def main():
