@@ -4,7 +4,7 @@
 // @namespace    https://vgmdb.net/
 // @version      0.4.0
 // @description  VGMdb BBcode-style album information generator
-// @description:zh-cn VGMdb BBcode 样式专辑信息生成
+// @description:zh-CN VGMdb BBcode 样式专辑信息生成
 // @author       gkouen
 // @license      MIT
 // @homepage     https://blog.cya.moe/
